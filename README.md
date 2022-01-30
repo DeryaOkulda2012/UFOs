@@ -1,8 +1,3 @@
-# UFOs
-JavaScript Module
-
-
-
 # Visitors From the Final Frontier
 
 ## Overview:
@@ -19,11 +14,11 @@ So what do YOU think? Are we alone in the universe? Are aliens trying to contact
 
 To use the search through different criteria, fill in the various text boxes with the text to search. For example, to search for UFO sightings in the state of Texas in the shape of light, fill in "tx" for the state and "light" for the shape, the result will look like:
 
-!["Events in Texas shaped like Light"](06_June_Temperatures.png)
+!["Events in Texas shaped like Light"](resources/Texas_and_Light.png)
 
 For example, to search for UFO sightings in the city of El Cajon in the shape of a triangle, fill in "el cajon" for the state and "triangle" for the shape, the result will look like:
 
-!["Events in California shaped like Triangle"](06_June_Temperatures.png)
+!["Events in California shaped like Triangle"](resources/ElCajon_and_Triangle.png)
 
 
 ## Summary:
