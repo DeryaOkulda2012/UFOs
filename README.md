@@ -3,9 +3,9 @@ JavaScript Module
 
 
 
-Visitors From the Final Frontier
+# Visitors From the Final Frontier
 
-Overview:
+## Overview:
 
 Are we alone in the universe? For millennia, humans have turned to the sky to answer this question.
 
@@ -15,20 +15,20 @@ Not everyone is ready to celebrate, however. Local CEO and vocal anti-alien acti
 
 So what do YOU think? Are we alone in the universe? Are aliens trying to contact us, or do they want to be left alone? Dig through the data yourself, and let us know what you see.
 
-Using the Search Mechanism:
+## Using the Search Mechanism:
 
 To use the search through different criteria, fill in the various text boxes with the text to search. For example, to search for UFO sightings in the state of Texas in the shape of light, fill in "tx" for the state and "light" for the shape, the result will look like:
 
 For example, to search for UFO sightings in the city of El Cajon in the shape of a triangle, fill in "el cajon" for the state and "triangle" for the shape, the result will look like:
 
 
-Summary:
+## Summary:
 
-Drawback of this new design:
+### Drawback of this new design:
 
 The research is as good as the data. If the data leads to no UFO events, then it is difficult to conclude whether a specific city and state has been visited by aliens.
 
-Recommendations for further development:
+### Recommendations for further development:
 
 Although clicking the button on the top-left of the site returns us to the initial state, there should be a "clear" button to return to that state for more clarity.
 
