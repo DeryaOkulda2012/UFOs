@@ -29,6 +29,6 @@ For example, to search for UFO sightings in the city of El Cajon in the shape of
 
 ### Recommendations for further development:
 
-- Although clicking the button on the top-left of the site returns us to the initial state, there should be a "clear" button to return to that state for more clarity.
+- Although clicking the button on the top-left of the site returns us to the initial state, there should be a "clear" button to return start a new search.
 
-- There could be an additional mechanism to ignore whether the user inputs small or capital letters in the search boxes.
+- There could be an additional mechanism to type the name of an entire state and have a look-up table to search for state in the search boxes by converting to ths state abreviation.
